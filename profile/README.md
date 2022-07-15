@@ -1,6 +1,6 @@
 ## D's Apps
 
-:no_entry_sign: D-Cluttering Your Online Experience, Since 2022 
+:no_entry_sign: D-Cluttering Your Chrome Browsing Experience, Since 2022 
 
 <!--
 
